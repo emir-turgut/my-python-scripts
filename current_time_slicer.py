@@ -21,5 +21,3 @@ def current_time_slicer():
         "second": current_second,
         "microseconds": current_microseconds
     }
-
-print(current_time_slicer())
